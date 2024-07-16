@@ -18,7 +18,7 @@ Za poszczególne laboratoria dostałem:
 - *lab6*: `8.5/10 pkt`
 
 Lab5 i lab6 nie dość, że zajęły mi dużo czasu, to jeszcze nie udało się z nich zdobyć pełni punktów.
-Mimo że wydaje się, że i tak jest ich dość dużo, to nie jestem dumny z mojego kodu w rozwiązaniach do tych labów - bardzo możliwe jest, że jakieś sekcje są nieużywane, źle napisane itd.
+Mimo że wydaje się, że i tak jest ich dość dużo, to nie jestem dumny z mojego kodu w rozwiązaniach do tych labów - bardzo możliwe jest, że jakieś sekcje są nieużywane, źle napisane itd., a niektóre testowane funkcjonalności to prowizorka i jakoś je ominąłem, żeby weszło więcej punktów :P
 Natomiast jeżeli chodzi o pierwsze 4 laby, to tam pod tym względem powinno być ok.
 
 Projekt, który realizowałem w ramach tego przedmiotu jest dostępny pod adresem [Projekt](https://github.com/wojmichaluk/CPP-Project-2023-2024).
